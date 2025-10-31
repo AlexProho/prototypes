@@ -1,0 +1,5 @@
+{
+  "name": "Arrow Combo Pause Game",
+  "description": "A simple game demonstrating a pause mechanic activated by pressing the left and right arrow keys simultaneously twice. Move the player to avoid falling objects.",
+  "requestFramePermissions": []
+}
